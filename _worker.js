@@ -741,7 +741,7 @@ function getVLESSConfig(userIDs, hostName) {
 	// HTML Head with CSS
 	const htmlHead = `
     <head>
-        <title>EDtunnel: VLESS configuration</title>
+        <title>KuyShare - VLESS configuration</title>
         <meta name="description" content="This is a tool for generating VLESS protocol configurations. Give us a star on GitHub https://github.com/3Kmfi6HP/EDtunnel if you found it useful!">
 		<meta name="keywords" content="EDtunnel, cloudflare pages, cloudflare worker, severless">
         <meta name="viewport" content="width=device-width, initial-scale=1">
